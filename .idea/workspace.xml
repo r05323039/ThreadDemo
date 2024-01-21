@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e03e00df-1063-45e0-9e98-c0d1ca9ab702" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/comsume_supply/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/comsume_supply/Foodie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/comsume_supply/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/comsume_supply/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/comsume_supply/arrayBlockingQueneDemo/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/comsume_supply/arrayBlockingQueneDemo/Foodie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/comsume_supply/arrayBlockingQueneDemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/exam/q1/Exam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/exam/q1/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/exam/q2/Exam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/exam/q2/Gift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/exam/q3/Exam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/exam/q3/PrintOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/exam/q4/RedEnvelope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/thread/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/thread/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ian/thread/ThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ian/thread/CSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ian/thread/CallableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ian/thread/ThreadDemoTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2X3FN1ZaCYGy8CEQEGqYadUzyJ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.ThreadDemoTest.TheadDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ThreadDemo [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/林昱安/Desktop/DesignPattern2023&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\林昱安\Desktop\software\ThreadDemo\src\main\java\ian\cs\arrayBlockingQueneDemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ThreadDemoTest.TheadDemoTest">
+    <configuration name="Exam1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ian.exam.q1.Exam1" />
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ian.exam.q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ian.exam.q2.Exam2" />
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ian.exam.q2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ian.exam.q3.Exam3" />
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ian.exam.q3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedEnvelope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ian.exam.q4.RedEnvelope" />
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ian.exam.q4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemoTest.TheadDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ian.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ian.thread" />
+      <option name="MAIN_CLASS_NAME" value="ian.thread.ThreadDemoTest" />
+      <option name="METHOD_NAME" value="TheadDemoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ThreadDemoTest.TheadDemoTest" />
+        <item itemvalue="Application.RedEnvelope" />
+        <item itemvalue="Application.Exam3" />
+        <item itemvalue="Application.Exam2" />
+        <item itemvalue="Application.Exam1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-temurin-1.8.0_392-3183f394aec4-7f163695" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e03e00df-1063-45e0-9e98-c0d1ca9ab702" name="Changes" comment="" />
+      <created>1697849813234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697849813234</updated>
+      <workItem from="1697849814469" duration="6880000" />
+      <workItem from="1697944724498" duration="3149000" />
+      <workItem from="1697970540070" duration="5605000" />
+      <workItem from="1697979662623" duration="2323000" />
+      <workItem from="1698150267278" duration="56000" />
+      <workItem from="1705827553066" duration="56000" />
+      <workItem from="1705830472782" duration="156000" />
+      <workItem from="1705830657318" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ian/comsume_supply/Cook.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ian/comsume_supply/Foodie.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Table.foodStatus" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
